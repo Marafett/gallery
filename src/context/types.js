@@ -1,0 +1,2 @@
+export const FETCH_IMAGES = 'FETCH_IMAGES'
+export const TOGGLE_IMAGE = 'TOGGLE_IMAGE'
